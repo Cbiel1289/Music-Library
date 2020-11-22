@@ -1,40 +1,67 @@
 Information:
+
 Cameron Biel, University of Pittsburgh at Bradford, 11/21/2020
 
 Description of Code:
-This code is a music library that is able to hold playlists, with information taken from user input, as well as songs outside of the library. Once all of the information is to the users satisfaction, the code then outputs the playlists and songs in a clean, easy to read format for the user.
+
+This code is a music library that is able to hold playlists, with information taken from user input, as well as songs outside of the library.
+Once all of the information is to the users satisfaction, the code then outputs the playlists and songs in a clean, easy to read format for the user.
 
 Instructions on how to run code:
-It is very simple to run the code, and all it requires from the user is to enter in various information for the playlists and songs, and will ask the user if they wish to add more playlists or songs.
+
+It is very simple to run the code, and all it requires from the user is to enter in various information for the playlists and songs, and will ask the user if they wish to add more playlists or songs. It is important to download demo_songs.txt and make sure that it is in the project folder but outside of the src folder.
 
 Example input and output:
+
 Who is the owner of this library?: Cameron
+
 Demo songs were added to the library.
+
 Let's make a new playlist!
+
 What is the name of the playlist?: Christmas Time
+
 Please give a description: It's the most wonderful time of the year!
+
 Lets add a song to the Christmas Time playlist
+
 Enter song name: All I Want For Christmas Is You
+
 Enter artist name: Mariah Carey
+
 Enter genre: Holiday
+
 Would you like to add another song to Christmas Time playlist? (y/n) y
+
 Lets add a song to the Christmas Time playlist
+
 Enter song name: Let it snow!
+
 Enter artist name: Frank Sinatra
+
 Enter genre: Holiday
+
 Would you like to add another song to Christmas Time playlist? (y/n) n
+
 Would you like to add another playlist to the library? (y/n): n
+
 Would you like to add a song to the library? (y/n): y
+
 Let's add a song to your song library.
+
 Song name: Better Now
+
 Artist name: Post Malone
+
 Genre: Hip-Hop/Rap
+
 Would you like to add another song to the library? (y/n): n
+
 Would you like to add another library? (y/n): n
 
 LIBRARY OWNER: Cameron
 
-SONGS IN LIBRARY: 
+SONGS IN LIBRARY:
 --------------------
 Title: Let it snow!
 Artist: Frank Sinatra
