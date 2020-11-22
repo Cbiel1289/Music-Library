@@ -68,48 +68,80 @@ Would you like to add another library? (y/n): n
 LIBRARY OWNER: Cameron
 
 SONGS IN LIBRARY:
+
 --------------------
 Title: Let it snow!
+
 Artist: Frank Sinatra
+
 Genre: Holiday
+
 --------------------
 Title: A Milli
+
 Artist: Lil Wayne
+
 Genre: Rap
+
 --------------------
 Title: Better Now
+
 Artist: Post Malone
+
 Genre: Hip-Hop/Rap
+
 --------------------
 Title: Yeah!
+
 Artist: Usher
+
 Genre: Pop
+
 --------------------
 Title: Lonely (with benny blanco)
+
 Artist: Justin Beiber
+
 Genre: Pop
+
 --------------------
 Title: All I Want For Christmas Is You
+
 Artist: Mariah Carey
+
 Genre: Holiday
+
 --------------------
 Title: God Is A Woman
+
 Artist: Ariana Grande
+
 Genre: Pop
+
 --------------------
 Title: Bohemian Raphsody
+
 Artist: Queen
+
 Genre: Rock
 
+
 PLAYLIST NAME: Christmas Time
+
 PLAYLIST DESCRIPTION: It's the most wonderful time of the year!
+
 --------------------
 Title: Let it snow!
+
 Artist: Frank Sinatra
+
 Genre: Holiday
+
 --------------------
 Title: All I Want For Christmas Is You
+
 Artist: Mariah Carey
+
 Genre: Holiday
 
 
