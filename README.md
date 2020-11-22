@@ -2,14 +2,17 @@ Information:
 
 Cameron Biel, University of Pittsburgh at Bradford, 11/21/2020
 
+
 Description of Code:
 
 This code is a music library that is able to hold playlists, with information taken from user input, as well as songs outside of the library.
 Once all of the information is to the users satisfaction, the code then outputs the playlists and songs in a clean, easy to read format for the user.
 
+
 Instructions on how to run code:
 
 It is very simple to run the code, and all it requires from the user is to enter in various information for the playlists and songs, and will ask the user if they wish to add more playlists or songs. It is important to download demo_songs.txt and make sure that it is in the project folder but outside of the src folder.
+
 
 Example input and output:
 
@@ -117,7 +120,6 @@ The demo songs text file must be included in the project directory, otherwise th
 There is theoretically a limit to the amount of playlists and songs that can be added, but that should not be a concern for the average user, unless one is trying to really test the limits of the code.
 
 There is no way for the code to verify if the information that the user inputs for the playlist/songs is correct, or have any data previously stored other than in the demo songs text file. It is therefore expected that the user knows this information before entering it in, or looks it up.
-
 
 
 
